@@ -1,4 +1,5 @@
 baseURL: "https://giacolenzo2109.github.io/"
+publishDir: "docs"  # GitHub Pages requirement
 title: Giacomo Lenzini
 # pagination.pagerSize: 5
 theme: PaperMod
