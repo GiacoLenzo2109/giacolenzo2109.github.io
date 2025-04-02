@@ -1,0 +1,96 @@
+baseURL: "https://giacolenzo2109.github.io/"
+title: Giacomo Lenzini
+# pagination.pagerSize: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Giacomo Lenzini
+  description: ""
+  keywords: [Blog, Portfolio]
+  author: GiacoLenzo2109
+  # images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    image: true
+    # favicon: "<link / abs url>"
+    # favicon16x16: "<link / abs url>"
+    # favicon32x32: "<link / abs url>"
+    # apple_touch_icon: "<link / abs url>"
+    # safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Giacomo Lenzini"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Giacomo \~GiacoLenzo2109\~ Lenzini
+    subtitle: "Offensive Security Specialist 💻 | Bug Bounty Hunter 🪲 | Red Team 🔴"
+    # imageUrl: "https://media.licdn.com/dms/image/v2/C4D03AQGnE6Rd30b_Iw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1661065586717?e=1749081600&v=beta&t=iDXlY63GATwboTPaaf93pe0JomVvvsnKMOMHWPF2mD0"
+    # imageTitle: LinkedIn Profile Picture
+
+  socialIcons:
+    - name: linkedin
+      url: "https://linkedin.com/in/giacomo-lenzini/"
+    - name: github
+      url: "https://github.com/giacolenzo2109"
+
+  cover:
+    # hidden: false # hide everywhere but not in structured data
+    # hiddenInList: false # hide on list pages and home
+    # hiddenInSingle: false # hide on single page
+    responsiveImages: false
+
+menu:
+  main:
+    - identifier: whoami
+      name: Whoami
+      url: /whoami/
+      weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 20
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai

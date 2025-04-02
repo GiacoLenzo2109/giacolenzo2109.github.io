@@ -1,0 +1,5 @@
+article figure img {
+  width: 150px !important;
+  display: block;
+  margin: 0 auto;
+}
