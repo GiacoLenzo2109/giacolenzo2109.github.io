@@ -347,7 +347,7 @@ From a *P5 Stored XSS (Charmander)* to a *P2 Session Fixation* chained with *Sel
 
 ![P2](/images/articles/nasa-vdp/P2.png)
 
-### Lesson
+### Lesson Learned
 Security weaknesses should always be viewed as part of a broader attack surface. By chaining vulnerabilities together, we can better assess their full risk and potential impact.
 
 | Vulnerability                                          | Impact                      |

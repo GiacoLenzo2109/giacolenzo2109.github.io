@@ -1,20 +1,17 @@
-/* Target the image that comes after the Certifications heading */
-#certifications ~ p img {
-  display: inline-block;
-  vertical-align: middle; 
-  width: 100px;  /* Adjust size as needed */
-  margin-right: 10px; 
+#certifications ~ table tbody tr td img {
+  /* display: inline-block; */
+  /* vertical-align: middle;  */
+  width: 100px !important;
+  /* margin-right: 10px;  */
 }
 
-/* Target the strong text in certification items */
-#certifications ~ p strong {
+/* #certifications ~ p strong {
   display: inline-block;
   vertical-align: middle;
 }
 
-/* Make the paragraph not display as a block */
 #certifications ~ p {
-  /* display: flex; */
   align-items: center;
   height: 100px;
 } 
+*/

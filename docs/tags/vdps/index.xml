@@ -6,12 +6,12 @@
     <description>Recent content in VDPs on Giacomo Lenzini</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/vdps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spatial VDP: How I Rocked-Boosted a NASA XSS from P5 to P2 🚀</title>
       <link>http://localhost:1313/blog/nasa-vdp/</link>
-      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/nasa-vdp/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;A few months ago, I read an intriguing &lt;a href=&#34;https://blog.keephack.ing/2025-02-17-Houston-We-Have-a-vulnerability/&#34;&gt;article&lt;/a&gt; by Valerio &amp;ldquo;&lt;strong&gt;MrSaighnal&lt;/strong&gt;&amp;rdquo; Alessandroni, detailing how he earned a &lt;strong&gt;letter of acknowledgment from NASA&lt;/strong&gt; for reporting a vulnerability. That story stuck with me.&lt;/p&gt;
