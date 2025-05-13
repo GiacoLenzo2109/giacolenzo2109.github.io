@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>VDP on Giacomo Lenzini</title>
-    <link>https://giacolenzo2109.github.io/tags/vdp/</link>
+    <link>http://localhost:1313/tags/vdp/</link>
     <description>Recent content in VDP on Giacomo Lenzini</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 05 Oct 2023 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://giacolenzo2109.github.io/tags/vdp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/vdp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NASA VDP</title>
-      <link>https://giacolenzo2109.github.io/blog/nasa-vdp/</link>
+      <link>http://localhost:1313/blog/nasa-vdp/</link>
       <pubDate>Thu, 05 Oct 2023 12:00:00 +0000</pubDate>
-      <guid>https://giacolenzo2109.github.io/blog/nasa-vdp/</guid>
+      <guid>http://localhost:1313/blog/nasa-vdp/</guid>
       <description></description>
     </item>
   </channel>

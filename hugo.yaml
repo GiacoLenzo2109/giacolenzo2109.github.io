@@ -58,7 +58,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Giacomo \~GiacoLenzo2109\~ Lenzini
+    title: Giacomo \"GiacoLenzo2109\" Lenzini
     subtitle: "Offensive Security Specialist 💻 | Bug Bounty Hunter 🪲 | Red Team 🔴"
     # imageUrl: "https://media.licdn.com/dms/image/v2/C4D03AQGnE6Rd30b_Iw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1661065586717?e=1749081600&v=beta&t=iDXlY63GATwboTPaaf93pe0JomVvvsnKMOMHWPF2mD0"
     # imageTitle: LinkedIn Profile Picture
@@ -95,6 +95,9 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
 
 caches:
   images:

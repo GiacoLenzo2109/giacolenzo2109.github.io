@@ -35,8 +35,10 @@ I am a 24-year-old guy graduate in cybersecurity, currently working as an **Offe
 
 ## Certifications
 
-![CPTS](../assets/images/cpts.png) **CPTS - Certified Penetration Testing Specialist**
+![CPTS](../assets/images/certs/cpts.png) **CPTS - Certified Penetration Testing Specialist**
 
-![CBBH](../assets/images/cbbh.png) **CBBH - Certified Bug Bounty Hunter**
+![CBBH](../assets/images/certs/cbbh.png) **CBBH - Certified Bug Bounty Hunter**
 
-![LFCS](../assets/images/lfcs.png) **LFCS - SysAdmin** (04/2023 - 04/2026)
+![BSCP](../assets/images/certs/bscp.png) **BSCP - Burp Suite Certified Practitioner** (22/04/2025 - 22/04/2031)
+
+![LFCS](../assets/images/certs/lfcs.png) **LFCS - SysAdmin** (04/2023 - 04/2026)

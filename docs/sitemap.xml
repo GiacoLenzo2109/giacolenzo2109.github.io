@@ -2,39 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://giacolenzo2109.github.io/blog/</loc>
-    <lastmod>2023-10-05T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://giacolenzo2109.github.io/tags/bug-bounty/</loc>
-    <lastmod>2023-10-05T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/bug-bounty/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://giacolenzo2109.github.io/categories/</loc>
-    <lastmod>2023-10-05T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/bugcrowd/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://giacolenzo2109.github.io/tags/cybersecurity/</loc>
-    <lastmod>2023-10-05T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://giacolenzo2109.github.io/</loc>
-    <lastmod>2023-10-05T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://giacolenzo2109.github.io/tags/nasa/</loc>
-    <lastmod>2023-10-05T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/nasa/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://giacolenzo2109.github.io/blog/nasa-vdp/</loc>
-    <lastmod>2023-10-05T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/nasa-vdp/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://giacolenzo2109.github.io/tags/</loc>
-    <lastmod>2023-10-05T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://giacolenzo2109.github.io/categories/tech/</loc>
-    <lastmod>2023-10-05T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/tech/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://giacolenzo2109.github.io/tags/technology/</loc>
-    <lastmod>2023-10-05T12:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/vdps/</loc>
+    <lastmod>2025-05-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://giacolenzo2109.github.io/tags/vdp/</loc>
-    <lastmod>2023-10-05T12:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://giacolenzo2109.github.io/whoami/</loc>
+    <loc>http://localhost:1313/whoami/</loc>
   </url>
 </urlset>
