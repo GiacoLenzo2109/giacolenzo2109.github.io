@@ -2,7 +2,7 @@
 title: "Spatial VDP: How I Rocked-Boosted a NASA XSS from P5 to P2 🚀"
 date: 2025-05-13T00:00:00Z
 draft: false
-tags: ["NASA", "VDPs", "Bug Bounty", "Bugcrowd"]
+tags: ["NASA", "VDP", "Bug Bounty", "Bugcrowd"]
 categories: ["Tech"]
 description: ""
 cover:
