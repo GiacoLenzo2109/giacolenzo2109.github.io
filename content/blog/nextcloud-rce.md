@@ -1,6 +1,6 @@
 ---
 title: "From Misconfiguration to RCE: A Deep Dive into Nextcloud Security ☁️"
-date: 2025-10-05T00:00:00Z
+date: 2025-11-03T20:00:00Z
 draft: false
 tags: ["Red Team", "Penetration Test", "Cloud"]
 categories: ["Tech"]
