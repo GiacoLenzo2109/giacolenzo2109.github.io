@@ -4,17 +4,24 @@
     <title>Giacomo Lenzini</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Giacomo Lenzini</description>
-    <generator>Hugo -- 0.145.0</generator>
+    <generator>Hugo -- 0.149.0</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Misconfiguration to RCE: A Deep Dive into Nextcloud Security ☁️</title>
+      <link>http://localhost:1313/blog/nextcloud-rce/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/nextcloud-rce/</guid>
+      <description>&lt;p&gt;During a recent penetration test, I came across a misconfigured &lt;strong&gt;Nextcloud&lt;/strong&gt; instance. With the appropriate permissions, it was possible to achieve &lt;strong&gt;Remote Code Execution (RCE)&lt;/strong&gt; in two distinct ways by leveraging built-in Nextcloud functionality. This post walks through the attack surface and outlines defensive measures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nextcloud&lt;/strong&gt; is an open-source platform for file storage, collaboration, and communication. It allows users to sync files, share documents, manage calendars, and collaborate securely across devices and teams. In many ways, Nextcloud resembles popular cloud services such as Google Drive or Dropbox, but it offers the key advantage of complete data ownership and enhanced privacy.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Spatial VDP: How I Rocked-Boosted a NASA XSS from P5 to P2 🚀</title>
       <link>http://localhost:1313/blog/nasa-vdp/</link>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/nasa-vdp/</guid>
-      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;A few months ago, I read an intriguing &lt;a href=&#34;https://blog.keephack.ing/2025-02-17-Houston-We-Have-a-vulnerability/&#34;&gt;article&lt;/a&gt; by Valerio &amp;ldquo;&lt;strong&gt;MrSaighnal&lt;/strong&gt;&amp;rdquo; Alessandroni, detailing how he earned a &lt;strong&gt;letter of acknowledgment from NASA&lt;/strong&gt; for reporting a vulnerability. That story stuck with me.&lt;/p&gt;
+      <description>&lt;p&gt;A few months ago, I read an intriguing &lt;a href=&#34;https://blog.keephack.ing/2025-02-17-Houston-We-Have-a-vulnerability/&#34;&gt;article&lt;/a&gt; by Valerio &amp;ldquo;&lt;strong&gt;MrSaighnal&lt;/strong&gt;&amp;rdquo; Alessandroni, detailing how he earned a &lt;strong&gt;letter of acknowledgment from NASA&lt;/strong&gt; for reporting a vulnerability. That story stuck with me.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;NASA&amp;rsquo;s Vulnerability Disclosure Program (VDP)&lt;/strong&gt; is a non-monetary initiative that invites security researchers to report vulnerabilities in NASA&amp;rsquo;s public-facing systems. Unlike traditional bug bounties, the reward is purely ethical hacking glory – but with a cosmic twist.&lt;/p&gt;
 &lt;p&gt;For valid P3 or higher vulnerabilities, researchers receive:&lt;/p&gt;</description>
     </item>

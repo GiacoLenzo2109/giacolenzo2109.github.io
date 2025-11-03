@@ -41,3 +41,13 @@ I am a 24-year-old guy graduate in cybersecurity, currently working as an **Offe
 | ![CBBH](/images/certs/cbbh.png) | **CBBH - Certified Bug Bounty Hunter** |
 | ![BSCP](/images/certs/bscp.png) | **BSCP - Burp Suite Certified Practitioner** (22/04/2025 - 22/04/2031) |
 | ![LFCS](/images/certs/lfcs.png) | **LFCS - SysAdmin** (04/2023 - 04/2026) |
+
+
+## CVEs
+### MoonShine Software
+|  |  |
+| -------------- | ---- |
+| CVE-2025-51487 | **Stored XSS** |
+| CVE-2025-51488 | **Stored XSS** |
+| CVE-2025-51489 | **Stored XSS** |
+| CVE-2025-51510 | **SQL Injection** |

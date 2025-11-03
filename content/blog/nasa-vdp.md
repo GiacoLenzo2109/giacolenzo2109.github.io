@@ -10,8 +10,6 @@ cover:
     relative: false
 ---
 
-# Introduction
-
 A few months ago, I read an intriguing [article](https://blog.keephack.ing/2025-02-17-Houston-We-Have-a-vulnerability/) by Valerio "**MrSaighnal**" Alessandroni, detailing how he earned a **letter of acknowledgment from NASA** for reporting a vulnerability. That story stuck with me.
 
 **NASA's Vulnerability Disclosure Program (VDP)** is a non-monetary initiative that invites security researchers to report vulnerabilities in NASA's public-facing systems. Unlike traditional bug bounties, the reward is purely ethical hacking glory – but with a cosmic twist.
