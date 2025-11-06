@@ -4,14 +4,14 @@
     <title>Giacomo Lenzini</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on Giacomo Lenzini</description>
-    <generator>Hugo -- 0.149.0</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Nov 2025 20:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From Misconfiguration to RCE: A Deep Dive into Nextcloud Security ☁️</title>
       <link>http://localhost:1313/blog/nextcloud-rce/</link>
-      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Nov 2025 20:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/nextcloud-rce/</guid>
       <description>&lt;p&gt;During a recent penetration test, I came across a misconfigured &lt;strong&gt;Nextcloud&lt;/strong&gt; instance. With the appropriate permissions, it was possible to achieve &lt;strong&gt;Remote Code Execution (RCE)&lt;/strong&gt; in two distinct ways by leveraging built-in Nextcloud functionality. This post walks through the attack surface and outlines defensive measures.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Nextcloud&lt;/strong&gt; is an open-source platform for file storage, collaboration, and communication. It allows users to sync files, share documents, manage calendars, and collaborate securely across devices and teams. In many ways, Nextcloud resembles popular cloud services such as Google Drive or Dropbox, but it offers the key advantage of complete data ownership and enhanced privacy.&lt;/p&gt;</description>

@@ -22,7 +22,7 @@ I am a 24-year-old guy graduate in cybersecurity, currently working as an **Offe
     - PhaaS: conducted Phishing campaigns
     - CVE: analysis and evaluation of CVEs based on the CVSS
 
-- **Fullstack Developer**
+- **Fullstack Developer**<br>
     *Feb 2022 - Jun 2022*
     - Bachelor's thesis: “Implementation of a web platform for performance analysis of a private Ethereum-based blockchain.”
 
