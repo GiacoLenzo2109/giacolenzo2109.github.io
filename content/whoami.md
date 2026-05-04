@@ -38,7 +38,7 @@ I am a 24-year-old guy graduate in cybersecurity, currently working as an **Offe
 |  |  |
 | -------------- | ---- |
 | ![CRTO](/images/certs/crto.png) | **CRTO - Certified Red Team Operator** |
-| ![eWPTX](/images/certs/ewptx.svg) | **eWPTX - Web Application Penetration Tester eXtreme** (03/2026 - 03/2029) |
+| ![eWPTX](/images/certs/ewptx.png) | **eWPTX - Web Application Penetration Tester eXtreme** (03/2026 - 03/2029) |
 | ![BSCP](/images/certs/bscp.png) | **BSCP - Burp Suite Certified Practitioner** (22/04/2025 - 22/04/2031) |
 | ![CPTS](/images/certs/cpts.png) | **CPTS - Certified Penetration Testing Specialist** |
 | ![CBBH](/images/certs/cbbh.png) | **CBBH - Certified Bug Bounty Hunter** |
