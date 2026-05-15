@@ -1,5 +1,5 @@
 # Who am i
-I am a 24-year-old guy graduate in cybersecurity, currently working as an **Offensive Security Specialist**. In my role, I perform various types of penetration tests to strengthen the security posture of organizations. In my spare time, I actively participate in **Bug Bounty** programs and engage in Capture The Flag (CTF) challenges and practice on various vulnerable labs (HackTheBox) to enhance my skills in ethical hacking and red teaming. I am also passionate about sports, having practiced kickboxing for 13 years, including 10 years at a competitive level. Currently, I practice CrossFit to maintain my fitness and discipline.
+I am a 25-year-old guy graduate in cybersecurity, currently working as an **Offensive Security Specialist**. In my role, I perform various types of penetration tests to strengthen the security posture of organizations. In my spare time, I actively participate in **Bug Bounty** programs and engage in Capture The Flag (CTF) challenges and practice on various vulnerable labs (HackTheBox) to enhance my skills in ethical hacking and red teaming. I am also passionate about sports, having practiced kickboxing for 13 years, including 10 years at a competitive level. Currently, I practice CrossFit to maintain my fitness and discipline.
 
 ## Experience
 - **Offensive Security Specialist** at **EY**  
